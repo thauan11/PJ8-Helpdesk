@@ -1,2 +1,2 @@
-# Projeto 8 - Portal de solicitações Helpdesk
-
+# Helpdesk
+Projeto desenvolvido com PHP.
